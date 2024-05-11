@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XQuestScriptEditor", "XQuestScriptEditor.vcproj", "{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}"
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = XQuestScriptEditor.vcproj
+		SccProjectName0 = \u0022$/XQuestScriptEditor\u0022,\u0020SNWEAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Debug|Win32.Build.0 = Debug|Win32
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Release|Win32.ActiveCfg = Release|Win32
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

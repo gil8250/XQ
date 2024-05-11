@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XQuestScriptEditor", "XQuestScriptEditor.vcproj", "{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = XQuestScriptEditor.vcproj
+		SccProjectName0 = \u0022$/XQuestScriptEditor\u0022,\u0020SNWEAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Debug.ActiveCfg = Debug|Win32
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Debug.Build.0 = Debug|Win32
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Release.ActiveCfg = Release|Win32
+		{E185E5C8-1D94-4ADD-9C23-993EFA9154CA}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
